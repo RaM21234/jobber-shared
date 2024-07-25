@@ -4,7 +4,7 @@
   "types": "./src/index.d.ts",
   "description": "Helpers library for Jobber app",
   "engines": {
-    "node": ">=20"
+    "node": ">=18"
   },
   "scripts": {
     "build": "npm run build:cjs && npm run build:esm && tsc --outDir build/src && node scripts/build-package.js",
@@ -19,7 +19,7 @@
   },
   "keywords": [],
   "name": "@ramkumar21234/jobber-shared",
-  "author": "Ram Kumar Verma",
+  "author": "ramkumar21234",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RaM21234/jobber-shared.git"
