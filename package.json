@@ -22,7 +22,7 @@
   "author": "ramkumar21234",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RaM21234/jobber-shared.git"
+    "url": "git+https://github.com/ram21234/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
